@@ -19,15 +19,15 @@
 </h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Rupesh-klr&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true&base=1300" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=chandru00007&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true&base=1300" alt="Profile views"/>
   </p>
 </div>
-<!-- https://komarev.com/ghpvc/?username=Rupesh-klr -->
+<!-- https://komarev.com/ghpvc/?username=chandru00007 -->
 
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Computer Science. I specialize in building robust applications using **Spring Boot** and **Python** on the backend, paired with **React** and **TypeScript** on the frontend. I also have a strong interest in **DevOps** practices, ensuring my code is not just functional but deployable and scalable.
+Hi! I'm **chandru00007**, a Full Stack Software Developer with a background in Computer Science. I specialize in building robust applications using **Spring Boot** and **Python** on the backend, paired with **React** and **TypeScript** on the frontend. I also have a strong interest in **DevOps** practices, ensuring my code is not just functional but deployable and scalable.
 
 
 ---
@@ -35,10 +35,10 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
 ##  Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rupeshb6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:krishnaleena222@gmail.com?subject=Mail from GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chandru00007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chandru00007@gmail.com?subject=Mail from GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/512Rupesh91061" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://rupesh-klr.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://rchandru00007.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -118,10 +118,10 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
 ---
 ## ‍🎃 Coding Profile:
 
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/rupesh-klr)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rupesh-klr)
-<a href="https://www.codechef.com/users/rupesh-klr" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/rupesh-klr/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/chandru00007)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chandru00007)
+<a href="https://www.codechef.com/users/chandru00007" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/chandru00007/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
 
 ---
 
@@ -135,10 +135,8 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
 
 ---
 ## 🛠️ My Projects
-- 🏦 **[Bank-Core](https://rupesh-klr.github.io/)** – A robust core banking backend system designed for high transaction throughput and security.
-- 📡 **[Telecomo-Suite](https://rupesh-klr.github.io/)** – comprehensive telecom domain solutions handling complex subscriber data and networking logic.
-- 🌳 **[Family Tree Vault](https://github.com/Rupesh-klr/family-tree)** – A secure, React-based heritage tracking app featuring role-based access control and biometric privacy locks.
-- 🌐 **[Domain-2-Go](https://rupesh-klr.github.io/)** – A streamlined tool for domain management and resolving.
+- 🏦 **[Bank-Core](https://chandru00007.github.io/)** – A robust core banking backend system designed for high transaction throughput and security.
+- 🌐 **[Domain-2-Go](https://chandru00007.github.io/)** – A streamlined tool for domain management and resolving.
 
 <div align="center">
 <h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
@@ -155,13 +153,13 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
 		</tr>
       <tr>
         <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupesh-klr&theme=github_dark">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupesh-klr&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
+          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandru00007&theme=github_dark">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandru00007&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
           </a>
         </th>
         <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=Rupesh-klr&show_icons=true&locale=en">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupesh-klr&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=chandru00007&show_icons=true&locale=en">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandru00007&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
           </a>
         </th>
       </tr>
@@ -177,9 +175,9 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
   <img alt="github-snake" src="./github-contribution-grid-snake.svg" />
 </picture> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rupesh-klr/Rupesh-klr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rupesh-klr/Rupesh-klr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rupesh-klr/Rupesh-klr/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandru00007/chandru00007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandru00007/chandru00007/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chandru00007/chandru00007/output/github-contribution-grid-snake.svg">
 </picture>
 	</td>
 	</tr>
@@ -193,7 +191,7 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
 
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=Rupesh-klr&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chandru00007&style=flat-square&color=blueviolet" alt="Profile Views" />
 
 </div>
 <!-- ---
